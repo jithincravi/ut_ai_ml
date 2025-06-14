@@ -6,3 +6,11 @@ nltk
 scikit-learn
 sklearn-pandas
 xgboost
+imbalanced-learn
+tensorflow
+shap
+sentence-transformers
+torch
+tf-keras
+llama-cpp-python
+huggingface_hub==0.20.3
