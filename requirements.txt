@@ -1,5 +1,5 @@
 numpy
-pandas
+pandas==1.5.3
 matplotlib
 seaborn
 nltk
@@ -12,5 +12,10 @@ shap
 sentence-transformers
 torch
 tf-keras
-llama-cpp-python
-huggingface_hub==0.20.3
+llama-cpp-python==0.1.85
+huggingface_hub==0.23.2
+tiktoken==0.6.0
+pymupdf==1.25.1
+langchain==0.1.1
+langchain-community==0.0.13
+chromadb==0.4.22
