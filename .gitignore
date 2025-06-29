@@ -1,5 +1,5 @@
 tests/
 notebooks/.DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
+*.DS_Store
+notebooks/11-MedicalAnalysis/chroma_db/*
+*-checkpoint.ipynb
